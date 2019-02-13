@@ -1,0 +1,11 @@
+C:\dev\c#\clienterest\bin\Debug\netcoreapp2.1\clienterest.deps.json
+C:\dev\c#\clienterest\bin\Debug\netcoreapp2.1\clienterest.runtimeconfig.json
+C:\dev\c#\clienterest\bin\Debug\netcoreapp2.1\clienterest.runtimeconfig.dev.json
+C:\dev\c#\clienterest\bin\Debug\netcoreapp2.1\clienterest.dll
+C:\dev\c#\clienterest\bin\Debug\netcoreapp2.1\clienterest.pdb
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.csprojAssemblyReference.cache
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.csproj.CoreCompileInputs.cache
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.AssemblyInfoInputs.cache
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.AssemblyInfo.cs
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.dll
+C:\dev\c#\clienterest\obj\Debug\netcoreapp2.1\clienterest.pdb
